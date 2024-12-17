@@ -11,6 +11,6 @@ This project involves:
 
 ### Project Repository Links:
 - **API Backend**: [Add your repository link here]
-- **Front-End Template**: [Add your front-end template repository link here]
+- **Front-End Template**: [[Add your front-end template repository link here](https://github.com/echarif/coriander_vs_parsley_template)]
 
 ---
